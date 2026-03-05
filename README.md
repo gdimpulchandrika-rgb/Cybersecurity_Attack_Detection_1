@@ -37,8 +37,9 @@ Example Features:
 1 → Attack detected
   
 
-Project Structure
-Cybersecurity-Attack-Detection
+## Project Structure
+
+* Cybersecurity-Attack-Detection
 │
 ├── 01_EDA.ipynb          # Data cleaning and Exploratory Data Analysis
 ├── 02_Modeling.ipynb     # Machine learning model training
@@ -49,23 +50,35 @@ Cybersecurity-Attack-Detection
 
 ## Exploratory Data Analysis (EDA)
 In the EDA phase:
+
 * Checked dataset structure
+  
 * Handled missing values
+  
 * Performed feature analysis
+  
 * Studied relationships between variables
+  
 * Identified patterns in attack vs normal activity
 
-Libraries used:
+## Libraries used:
 
-!.Pandas
+1.Pandas
+
 2.Matplotlib
+
 3.Seaborn
+
 4.Model Building
+
 5.Multiple machine learning models were tested.
 
 Example models:
+
 1.Logistic Regression
+
 2.Decision Tree
+
 3.Random Forest
 
 ## Final Selected Model
@@ -73,7 +86,9 @@ RandomForestClassifier
 
 ## Reason for selection:
 * High accuracy
+* 
 * Handles complex patterns
+* 
 * Robust against overfitting
 
 ## Model Saving
@@ -119,18 +134,29 @@ streamlit run app.py
 
 ## Technologies Used:
 * Python
+  
 * Pandas
+ 
 * NumPy
+  
 * Scikit-learn
+ 
 * Streamlit
+  
 * Hugging Face Spaces
+  
 * Matplotlib
+  
 * Seaborn
 
 ## Future Improvements
+
 Add more cybersecurity datasets
+
 Improve model accuracy with deep learning
+
 Add real-time network monitoring
+
 Deploy using Docker and cloud services
 
 ## Author
