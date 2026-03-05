@@ -121,15 +121,19 @@ Huggong face web application Link: https://huggingface.co/spaces/DIMPULCHANDRIKA
 
 ## To run the project locally:
 Step 1: Clone the repository
+
 git clone https://github.com/yourusername/cybersecurity-attack-detection.git
 
 Step 2: Navigate to the project folder
+
 cd cybersecurity-attack-detection
 
 Step 3: Install requirements
+
 pip install -r requirements.txt
 
 Step 4: Run the Streamlit app
+
 streamlit run app.py
 
 ## Technologies Used:
