@@ -166,6 +166,7 @@ Deploy using Docker and cloud services
 
 ## Author
 Dimpul Chandrika Gudapati
+
 Kavya Madala
 
 ## Machine Learning Project
