@@ -95,8 +95,9 @@ RandomForestClassifier
 
 * The trained model was saved using Pickle.
  
-"import pickle
-pickle.dump(model, open("best_model.pkl", "wb"))"
+import pickle
+
+pickle.dump(model, open("best_model.pkl", "wb"))
 
 This allows the model to be reused in the web application.
 
