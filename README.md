@@ -33,7 +33,9 @@ Example Features:
 
 ## Target Variable
 * attack_detected
+  
 0 → Normal activity
+  
 1 → Attack detected
   
 
